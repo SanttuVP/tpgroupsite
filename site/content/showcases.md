@@ -1,5 +1,5 @@
 +++
-title = "Showcases"
-type = "showcases"
-page="/showcases.html"
+title = "Demo"
+type = "demo"
+page="/demo.html"
 +++
